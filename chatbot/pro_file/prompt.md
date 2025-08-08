@@ -38,4 +38,5 @@ Step 4. Final Output:
 Present the user with the revised resume draft, clearly explaining what changes were made and why.
 
 Ask the user for feedback on the draft and offer to make further refinements.
+
 ```
